@@ -1,0 +1,13 @@
+All-Manga-AI/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── HeroForm.jsx
+│   │   ├── PNJForm.jsx
+│   │   ├── ScenarioGenerator.jsx
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
